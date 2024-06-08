@@ -1,0 +1,10 @@
+# Ignore specific files
+Gapnext_v'2.csv
+small_phc_data.csv
+
+# Other typical ignores
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
